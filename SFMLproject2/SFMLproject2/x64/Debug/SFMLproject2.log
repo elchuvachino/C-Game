@@ -1,0 +1,24 @@
+﻿  Bob.cpp
+  Engine.cpp
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(6,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(6,44): warning C4244:         with
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(6,44): warning C4244:         [
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(6,44): warning C4244:             T=float
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(6,44): warning C4244:         ]
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(7,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(7,44): warning C4244:         with
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(7,44): warning C4244:         [
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(7,44): warning C4244:             T=float
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(7,44): warning C4244:         ]
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(9,52): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(9,52): warning C4244:         with
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(9,52): warning C4244:         [
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(9,52): warning C4244:             T=float
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(9,52): warning C4244:         ]
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(9,38): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(9,38): warning C4244:         with
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(9,38): warning C4244:         [
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(9,38): warning C4244:             T=float
+C:\Users\Home\source\repos\SFMLproject2\SFMLproject2\Engine.cpp(9,38): warning C4244:         ]
+  Generating Code...
+  SFMLproject2.vcxproj -> C:\Users\Home\source\repos\SFMLproject2\x64\Debug\SFMLproject2.exe
